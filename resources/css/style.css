@@ -140,12 +140,17 @@ section.banner {
   align-items: left;
 }
 
+.banner-content h1{
+  margin: 1rem;
+}
 .banner-content h2{
   font-weight: bold;
   color: #4a4a4a;
+  margin: 1rem;
 }
 
 .banner-content a {
+  margin: 1rem;
   background-color: #4a4a4a;
   width: 100%;
   margin-right: 16px;
